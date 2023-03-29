@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi, I'm Jose Pereira 👋👨‍💻
 
-<!--
-**yaboymylo/yaboymylo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Connect with me:
 
-Here are some ideas to get you started:
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/jose-pereira-a9277726b/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/jose-pereira-a9277726b/#gh-dark-mode-only)
+&nbsp;&nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![website](./img/instagram-light.svg)](https://www.instagram.com/mylopills#gh-light-mode-only)
+
+### Learning:
+<div style="display: inline_block">
+  <img align="center" alt="python" src="https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&logoColor" />
+</div><br/>
