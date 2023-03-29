@@ -1,12 +1,6 @@
 ### Hi, I'm Jose Pereira 👋👨‍💻
 
-### Connect with me:
-
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/jose-pereira-a9277726b/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/jose-pereira-a9277726b/#gh-dark-mode-only)
-&nbsp;&nbsp;
-
-[![website](./img/instagram-light.svg)](https://www.instagram.com/mylopills#gh-light-mode-only)
+Connect with me: https://www.linkedin.com/in/jose-pereira-a9277726b/
 
 ### Learning:
 <div style="display: inline_block">
